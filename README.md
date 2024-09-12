@@ -38,10 +38,10 @@ Click the buttons to see the background color change with smooth transition
 
 ### 🛠️ Built With
 
-⚡ Vite - A fast build tool for modern web applications.
-⚛️ React - A JavaScript library for building user interfaces.
-🎨 Tailwind CSS - A utility-first CSS framework for rapid UI development.
-🖌️ Custom CSS - For additional styling and layout.
+- ⚡ Vite - A fast build tool for modern web applications.
+- ⚛️ React - A JavaScript library for building user interfaces.
+- 🎨 Tailwind CSS - A utility-first CSS framework for rapid UI development.
+- 🖌️ Custom CSS - For additional styling and layout.
 
 ### 📜 License 
 
