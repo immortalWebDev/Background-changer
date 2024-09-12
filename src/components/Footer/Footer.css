@@ -1,0 +1,15 @@
+footer {
+    text-align: center;
+    padding: 1px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0; 
+    z-index: 1000; 
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 1rem;
+  }
+  
