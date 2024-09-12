@@ -19,7 +19,7 @@ function App() {
       style={{ backgroundColor: color }}
     >
       <div className="fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2">
-        <div className="mb-4 flex flex-wrap justify-center gap-3 shadow-lg bg-white px-3 py-2 rounded-3xl">
+        <div className="mb-4 flex flex-wrap justify-center gap-3 shadow-lg bg-[#d3d3d3] px-3 py-2 rounded-3xl">
           <Buttons
             color="white"
             textColor="black"
