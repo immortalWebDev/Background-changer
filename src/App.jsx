@@ -57,8 +57,8 @@ function App() {
           />
           <Buttons
             color="red"
-            textColor="black"
-            onClick={() => handleButtonClick("red", "black")}
+            textColor="white"
+            onClick={() => handleButtonClick("red", "white")}
           />
           <Buttons
             color="black"
